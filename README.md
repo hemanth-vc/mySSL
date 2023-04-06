@@ -36,10 +36,6 @@ Files in "...\General\General.java":
 ------------------------------------
 General.java -> This file contains the reusable code used in the project.
 
-Files in current folder:
-------------------------
-Output Screenshots.pdf -> Outputs from running Bob.java, CA.java and Alice.java.
-
 
 To implement mySSL:
 -------------------
